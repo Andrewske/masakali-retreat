@@ -23,7 +23,7 @@ const Footer = () => {
             <p>Masakali</p>
             <p>Br. Ayah Kelusa Payangan</p>
             <p>Gianyar Bali 80572</p>
-            <p className="font-montserrat">+62 821-4635-5565</p>
+            <p className="font-montserrat">+62 823-4646-2331</p>
           </Link>
         </div>
       </div>

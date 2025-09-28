@@ -39,7 +39,7 @@ const Location = () => {
                 instagram.com/masakaliretreat
               </a>
             </p>
-            <p>+62 821-4635-5565</p>
+            <p>+62 823-4646-2331</p>
           </div>
         </div>
       </div>
